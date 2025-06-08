@@ -6,37 +6,29 @@ jsarr:
 - js/scripts.js
 ---
 
-<h1 id="cv-title"><a href="{{ site.url }}">Fred Hohman</a></h1>
+<h1 id="cv-title"><a href="{{ site.url }}">Anirudh Penmatcha</a></h1>
 
-<p id="cv-subtitle"><i>Research Scientist (<span class="cv-vis">HCI</span> + <span class="cv-ai">ML</span>)</i></p>
+<!--<p id="cv-subtitle"><i>Research Scientist (<span class="cv-vis">HCI</span> + <span class="cv-ai">ML</span>)</i></p>-->
 
 <!-- <div id="cv-toc">
 <ul class="cv-description">
 	<li>Education</li>
-	<li>Industry Research</li>
-	<li>Academic Research</li>
-	<li>Honors and Awards</li>
-	<li>Publications</li>
-	<li>Talks</li>
-	<li>Press</li>
-	<li>Teaching</li>
-	<li>Mentoring</li>
-	<li>Grants and Funding</li>
-	<li>Interactive Articles</li>
-	<li>Service</li>
-	<li>Design</li>
-	<li>References</li>
+	<li>Industry Experience</li>
+	<li>Academic Research Experience</li>
+	<li>Projects</li>
+	<li>Certifications</li>
+	<li>Skills</li>
 </ul>
 </div> -->
 
 <div>
-I design and develop <b><span class="cv-vis">interactive interfaces</span></b> to help people <b><span class="cv-ai">understand machine learning</span></b> models and data-driven systems. Besides building tools, I also create data visualizations and write interactive articles to simply communicate complex ideas.
+Hi! I’m a final-year Master’s student in Data Science at Indiana University, Bloomington, specializing in Databases, Cloud Computing, and AI. Through internships, co-op and university projects, I have gained hands-on experience in applying these tools to solve complex problems.
 </div>
 
 <div class="cv-spacer"></div>
 
 <div>
-I have collaborated with researchers, designers, developers, and artists while working at Apple, Microsoft Research, NASA Jet Propulsion Lab, and Pacific Northwest National Lab.
+I'm passionate about constantly learning and always seeking for exciting ideas and opportunities to apply my skills in meaningful and impactful ways.
 </div>
 
 <div class="cv-spacer"></div>

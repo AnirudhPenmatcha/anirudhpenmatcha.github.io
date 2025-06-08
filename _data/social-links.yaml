@@ -1,33 +1,34 @@
 - id: email
-  description: "fredhohman@apple.com"
+  description: "anpenma@iu.edu"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:fredhohman@apple.com"
+  url: "mailto:anpenma@iu.edu"
   on-homepage: true
   cv-group: 1
 
-- id: twitter
-  description: "@fredhohman"
-  color: "#1da1f2"
-  class: "fab fa-twitter icon"
-  url: https://twitter.com/fredhohman
-  on-homepage: true
-  cv-group: 2
-
 - id: github
-  description: "@fredhohman"
+  description: "@AnirudhPenmatcha"
   color: "#6e5494"
   class: "fab fa-github icon"
-  url: "https://github.com/fredhohman"
+  url: "https://github.com/AnirudhPenmatcha"
   on-homepage: true
   cv-group: 2
 
 - id: linkedin
-  description: "fredhohman"
+  description: "anirudhpenmatcha"
   color: "#0077b5"
   class: "fab fa-linkedin-in icon"
-  url: "http://www.linkedin.com/in/fredhohman"
+  url: "https://www.linkedin.com/in/anirudhpenmatcha/"
   on-homepage: true
+  cv-group: 1
+
+- id: twitter
+  description: "@AnirudhPenma"
+  color: "#515151"
+  class: "fa-brands fa-x-twitter"
+  url: https://x.com/AnirudhPenma
+  on-homepage: true
+  cv-group: 1
 
 - id: mastodon
   description: "fredhohman"
@@ -42,7 +43,6 @@
   class: "fas fa-home icon"
   url: "https://fredhohman.com"
   on-homepage: false
-  cv-group: 1
 
 - id: scholar
   description: "Google Scholar"
@@ -50,15 +50,14 @@
   class: "fa fa-graduation-cap icon"
   url: "https://scholar.google.com/citations?user=1w0TLT8AAAAJ&hl=en"
   on-homepage: true
-  cv-group: 2
 
-- id: cv
-  description: CV PDF
+- id: Resume
+  description: Resume PDF
   color: "#ba2818"
   class: "far fa-file-pdf icon"
-  url: "/cv.pdf"
+  url: "/App ML Resume Anirudh Penmatcha.pdf"
   on-homepage: false
-  cv-group: 1
+  cv-group: 2
 
 - id: cv-web
   description: CV
